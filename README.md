@@ -18,3 +18,6 @@ Assim, lendo o Texto A, é possível identificar 160 verbos no texto, dos quais 
 Já no Texto B, quantos são os verbos?
 
 E quantos verbos do Texto B estão em primeira pessoa?
+
+
+A solução esta no arquivo prova.php
